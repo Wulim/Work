@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited by 201503635 -->
+<college name="长江大学">
+
+<class number="11501">
+<student>
+<number>001</number>
+<name>吴林杰</name>
+<sex>男</sex>
+<age>20</age>
+</student>
+
+<student>
+<number>002</number>
+<name>Nov</name>
+<sex>male</sex>
+<age>24</age>
+</student>
+
+<student>
+<number>003</number>
+<name>あおい</name>
+<sex>女の子</sex>
+<age>19</age>
+</student>
+
+<student>
+<number>004</number>
+<name>火麒麟</name>
+<sex>雄</sex>
+<age>21</age>
+</student>
+
+<student>
+<number>005</number>
+<name>西米露</name>
+<sex>女</sex>
+<age>28</age>
+</student>
+
+<script>
+<![CDATA[
+function matchwo(a,b)
+{
+if(a<b&&a<0) then
+{
+return 1;
+}
+else
+{
+return 0;
+}
+}
+]]>
+</script>
+
+</class >
+</college>
